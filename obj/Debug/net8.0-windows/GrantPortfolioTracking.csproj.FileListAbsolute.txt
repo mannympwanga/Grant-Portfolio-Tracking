@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.frmGrantPortfolio.resources
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.frmStatus.resources
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.AssemblyInfo.cs
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GrantPortfolioTracking\bin\Debug\net8.0-windows\GrantPortfolioTracking.exe
+C:\Users\User\source\repos\GrantPortfolioTracking\bin\Debug\net8.0-windows\GrantPortfolioTracking.deps.json
+C:\Users\User\source\repos\GrantPortfolioTracking\bin\Debug\net8.0-windows\GrantPortfolioTracking.runtimeconfig.json
+C:\Users\User\source\repos\GrantPortfolioTracking\bin\Debug\net8.0-windows\GrantPortfolioTracking.dll
+C:\Users\User\source\repos\GrantPortfolioTracking\bin\Debug\net8.0-windows\GrantPortfolioTracking.pdb
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.dll
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\refint\GrantPortfolioTracking.dll
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.pdb
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\GrantPortfolioTracking.genruntimeconfig.cache
+C:\Users\User\source\repos\GrantPortfolioTracking\obj\Debug\net8.0-windows\ref\GrantPortfolioTracking.dll
